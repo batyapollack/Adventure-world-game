@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adventures world", "Adventures world\Adventures world.vcxproj", "{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Debug|x64.ActiveCfg = Debug|x64
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Debug|x64.Build.0 = Debug|x64
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Debug|x86.Build.0 = Debug|Win32
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Release|x64.ActiveCfg = Release|x64
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Release|x64.Build.0 = Release|x64
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Release|x86.ActiveCfg = Release|Win32
+		{F4A0F4FB-702D-47CE-8C39-1366E0FC689B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CDB49F-2149-4A8B-9144-4B394D8F7B10}
+	EndGlobalSection
+EndGlobal
